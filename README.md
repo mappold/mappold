@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Max
-- 👀 I’m interested in new tech
-- 🌱 I’m currently working in software development
-- 🏎️ I’m looking for fast-paced projects
+👋 Hi, I’m Max, a Software Developer from Germany
+👀 I’m interested in new tech
